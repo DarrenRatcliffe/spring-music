@@ -5,4 +5,3 @@ applications:
   instances: 2
   host: spring-music-darren-2
   path: build/libs/spring-music.war
-
