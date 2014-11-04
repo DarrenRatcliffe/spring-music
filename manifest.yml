@@ -1,7 +1,7 @@
 ---
 applications:
-- name: spring-music-2
+- name: spring-music
   memory: 512M
   instances: 2
-  host: spring-music-darren-2
+  host: spring-music-darren
   path: build/libs/spring-music.war
