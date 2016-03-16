@@ -119,3 +119,5 @@ add the driver .jar file to the `src/main/webapp/WEB-INF/lib` directory in the p
 application .war file using `./gradlew assemble`.
 
 https://codeship.com/projects/YOUR_PROJECT_UUID/status?branch=master
+
+Changed
